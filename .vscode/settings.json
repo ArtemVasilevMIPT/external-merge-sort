@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.generator": "Unix Makefiles",
+    "C_Cpp.default.cppStandard": "c++20"
+}
